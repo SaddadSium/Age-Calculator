@@ -63,3 +63,4 @@ Creative **Web Developer 💻 | Photographer 📸**
 If you like this project, don’t forget to **star ⭐ the repository** and share it with others!
 
 **📸 Preview**
+![Age Calculator Preview](agecalculator.png)
